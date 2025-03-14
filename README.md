@@ -1,6 +1,6 @@
 # CDFO
 
-The dataset and code of the paper Compressed Video Quality Enhancement With Temporal Group Alignment and Fusion". 
+The code of paper "Deep Compressed Video Super-Resolution With Guidance of Coding Priors". 
 
 # Requirements
 
@@ -8,9 +8,9 @@ CUDA==11.6 Python==3.7 Pytorch==1.13
 
 ## 1.1 Environment
 ```python
-conda create -n tgaf python=3.7 -y && conda activate tgaf
+conda create -n CDFO python=3.7 -y && conda activate CDFO
 
-git clone --depth=1 https://github.com/QZ1-boy/TGAF-Pytorch && cd QZ1-boy/TGAF-Pytorch/
+git clone --depth=1 https://github.com/QZ1-boy/CDFO && cd QZ1-boy/CDFO/
 
 # given CUDA 11.6
 python -m pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu116
