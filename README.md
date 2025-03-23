@@ -56,10 +56,12 @@ python test_CPGA.py --opt_path ./config/option_CPGA_vcp_LDB_22.yml
 # Citation
 If this repository is helpful to your research, please cite our paper:
 ```python
-@article{zhu2024compressed,
-  title={Compressed Video Quality Enhancement with Temporal Group Alignment and Fusion},
-  author={Qiang, Zhu and Yajun, Qiu and Yu, Liu and Shuyuan, Zhu and Bing, Zeng},
-  journal={IEEE Signal Processing Letters}
+@article{zhu2024deep,
+  title={Deep compressed video super-resolution with guidance of coding priors},
+  author={Zhu, Qiang and Chen, Feiyu and Liu, Yu and Zhu, Shuyuan and Zeng, Bing},
+  journal={IEEE Transactions on Broadcasting},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 # Related Works
