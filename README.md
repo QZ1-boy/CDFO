@@ -27,11 +27,11 @@ Download raw HR videos and compressed LR videos in [CD-VSR] (https://ieeexplore.
 
 # Train
 ```python
-python train_LD_V8_37.py
+python train_LD_37.py
 ```
 # Test
 ```python
-python test_LD_V8_37.py 
+python test_LD_37.py 
 ```
 # Citation
 If this repository is helpful to your research, please cite our paper:
