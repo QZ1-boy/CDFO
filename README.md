@@ -1,6 +1,6 @@
 # CDFO
 
-The code of paper "Deep Compressed Video Super-Resolution With Guidance of Coding Priors". 
+The code of the paper "Deep Compressed Video Super-Resolution With Guidance of Coding Priors". 
 
 # Requirements
 
@@ -18,13 +18,9 @@ python -m pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==
 python -m pip install tqdm lmdb pyyaml opencv-python scikit-image
 ```
 
-## 1.2 CVCP dataset
-**Download raw and compressed videos** 
+## 1.2 CVCP training dataset and Test dataset
+**Download raw HR videos and compressed LR videos**  [CD-VSR]([https://ieeexplore.ieee.org/document/6317156](https://ieeexplore.ieee.org/abstract/document/9509352))
 
-
-## 1.3 Test dataset
-
-We use the JCT-VC testing dataset in [JCT-VC](https://ieeexplore.ieee.org/document/6317156). Download raw and compressed videos [BaiduPan](https://pan.baidu.com/s/1IFjZF2MvCyVOmgTBHgl2IA),Code [qix5].
 
 # Train
 ```python
