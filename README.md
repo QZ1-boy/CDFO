@@ -6,7 +6,7 @@ The code of the paper "Deep Compressed Video Super-Resolution With Guidance of C
 
 CUDA==11.6 Python==3.7 Pytorch==1.13
 
-## 1.1 Environment
+## Environment
 ```python
 conda create -n CDFO python=3.7 -y && conda activate CDFO
 
@@ -18,7 +18,7 @@ python -m pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==
 python -m pip install tqdm lmdb pyyaml opencv-python scikit-image
 ```
 
-## 1.2 CVCP training dataset and Test dataset
+## CVCP training dataset and JCT-VC Test dataset
 **Download raw HR videos and compressed LR videos**  [CD-VSR]([https://ieeexplore.ieee.org/document/6317156](https://ieeexplore.ieee.org/abstract/document/9509352))
 
 
