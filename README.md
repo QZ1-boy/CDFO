@@ -19,8 +19,8 @@ python -m pip install tqdm lmdb pyyaml opencv-python scikit-image
 ```
 
 ## CVCP training dataset and JCT-VC Test dataset
-**Download raw HR videos and compressed LR videos**  [CD-VSR]([https://ieeexplore.ieee.org/document/6317156](https://ieeexplore.ieee.org/abstract/document/9509352))
-
+```pythonDownload raw HR videos and compressed LR videos**  [CD-VSR]([https://ieeexplore.ieee.org/document/6317156](https://ieeexplore.ieee.org/abstract/document/9509352))
+```
 
 # Train
 ```python
