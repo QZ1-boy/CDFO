@@ -24,11 +24,11 @@ python -m pip install tqdm lmdb pyyaml opencv-python scikit-image
 
 # Train
 ```python
-python train_CPGA.py --opt_path ./config/option_CPGA_vcp_LDB_22.yml
+python train_LD_V8_37.py
 ```
 # Test
 ```python
-python test_CPGA.py --opt_path ./config/option_CPGA_vcp_LDB_22.yml
+python test_LD_V8_37.py 
 ```
 # Citation
 If this repository is helpful to your research, please cite our paper:
