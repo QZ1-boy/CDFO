@@ -22,7 +22,7 @@ python -m pip install tqdm lmdb pyyaml opencv-python scikit-image
 
 Our work is built on the CD-VSR and uses the same datasets.
 
-Download raw HR videos and compressed LR videos in [CD-VSR] (https://ieeexplore.ieee.org/abstract/document/9509352). Download pre-trained models [BaiduPan](https://pan.baidu.com/s/1Lwjc6m0wo6e2HnmXqAfcBQ)),Code [CDFO]
+Download raw HR videos and compressed LR videos in [CD-VSR] (https://ieeexplore.ieee.org/abstract/document/9509352). Download test dataset with coding priors [BaiduPan](https://pan.baidu.com/s/10Z5otbtk32IqB9qyjyTrKg), Code [8un6].  Download pre-trained models [BaiduPan](https://pan.baidu.com/s/1Lwjc6m0wo6e2HnmXqAfcBQ), Code [CDFO]
 
 
 # Train
