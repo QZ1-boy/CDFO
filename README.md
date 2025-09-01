@@ -24,9 +24,9 @@ Our work is built on the CD-VSR and uses the same datasets.
 
 Download raw HR videos and compressed LR videos in [CD-VSR](https://ieeexplore.ieee.org/abstract/document/9509352).
 
-Download test dataset with coding priors [CVCP test dataset](https://auguste7.github.io/CVCP-database/)
+Download test dataset with coding priors [BaiduPan](https://pan.baidu.com/s/1QRxK58i8aFAXanVJ5XUJag), Code [test].
 
-Download pre-trained models [BaiduPan](https://pan.baidu.com/s/1Lwjc6m0wo6e2HnmXqAfcBQ), Code [CDFO]
+Download pre-trained models [BaiduPan](https://pan.baidu.com/s/1Lwjc6m0wo6e2HnmXqAfcBQ), Code [CDFO].
 
 
 # Train
